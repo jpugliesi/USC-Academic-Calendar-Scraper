@@ -30,4 +30,4 @@ Thus, the creation of this little scraping script. The script makes a Google Cal
   
 ## Thoughts
 
-  If for some wild reason you've actually taken the time to read this and check out this, what is in the scheme of things, a random repo, and actually have the time to give me feedback on anything at all (i.e. format, program-design, etc.), please do comment here!
+  If for some wild reason you've actually taken the time to read and check out this random repo, and actually have the time to give me feedback on anything at all (i.e. format, program-design, etc.), please do comment here!
