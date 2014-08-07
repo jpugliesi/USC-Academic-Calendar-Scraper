@@ -21,3 +21,13 @@ Thus, the creation of this little scraping script. The script makes a Google Cal
   * [A google calendar id (for the calendar the events will be added to)](https://www.drupal.org/node/589310)
     * [Plug in here](https://github.com/jpugliesi/USC-Academic-Calendar-Scraper/blob/add-files/create_calendar_events.py#L48)
   
+ With all of that set up, you can run `python create_calendar_events` to run the script, which will then add the events to the calendar you provided.
+
+## Reflection
+
+  Obviously, this script isn't very general at all. It's probably not a worth-while endeavour to make a script that can account for scraping a variety of web-page calendars, because we live in the 21st century and most places have this information already available in Google Calendar format, or something similar. 
+  For all I know, there could be a USC Calendar of Events out there that I have not discovered. I don't really care. The learning experience was worth it.
+  
+## Thoughts
+
+  If for some wild reason you've actually taken the time to read this and check out this, what is in the scheme of things, a random repo, and actually have the time to give me feedback on anything at all (i.e. format, program-design, etc.), please do comment here!
