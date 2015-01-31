@@ -8,8 +8,11 @@ But while this simple web page helps, it'd be more convenient for this informati
 Thus, the creation of this little scraping script. The script makes a Google Calendar for Academic Calendar Years on USC's website. I'm not really sure how useful others will find it, but I figure it can't hurt to share!
 
 ## How the heck do you use this?
+  First off, you'll need to grab all of the required modules in *requirements.txt*. It's recommended to use a 
+  virtualenv/virtualenvwrapper. Using pip, you can run `pip install -r requirements.txt` in the virtual environment to 
+  install all of the required modules.
   
-  First off, it's worth noting that I didn't include some important credentials for utilizing the Google Calendar API.
+  It's worth noting that I didn't include some important credentials for utilizing the Google Calendar API.
   If you want to try this script for some reason, you'll have to get your own copy of the following:
   
   * [Google Developer API Key](https://developers.google.com/api-client-library/python/guide/aaa_apikeys)
