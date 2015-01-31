@@ -1,0 +1,10 @@
+Werkzeug==0.9.6
+beautifulsoup4==4.3.2
+google-api-python-client==1.2
+httplib2==0.9
+parsedatetime==1.4
+python-gflags==2.0
+requests==2.3.0
+robobrowser==0.5.0
+six==1.7.3
+wsgiref==0.1.2
